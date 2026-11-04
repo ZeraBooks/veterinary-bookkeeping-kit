@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Veterinary practice bookkeeping kit"
+type: dataset
+authors:
+  - name: "ZeraBooks"
+    website: "https://www.zerabooks.com"
+url: "https://github.com/ZeraBooks/veterinary-bookkeeping-kit"
+repository-code: "https://github.com/ZeraBooks/veterinary-bookkeeping-kit"
+license: CC-BY-4.0
+abstract: "Bookkeeping for a veterinary practice keeps exam and service revenue apart from pharmacy and food sales, books drug and supply costs apart from outside lab fees, grosses card and patient financing deposits back up before their fees, and splits each equipment loan payment into interest and principal. This kit has the chart of accounts, a checklist and a worked month."
+keywords:
+  - bookkeeping
+  - veterinary
+  - vet-clinic
+  - chart-of-accounts
+  - small-business
+  - accounting
+  - month-end-close
+date-released: 2026-11-04

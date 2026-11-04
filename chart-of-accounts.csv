@@ -1,0 +1,30 @@
+Number,Name,Type,Detail,Notes
+1010,Operating checking,Asset,Bank,Card batches and patient financing payouts land here
+1200,Pharmacy and food inventory,Asset,Inventory,Optional on cash basis. Use it if you count the pharmacy each month
+1500,Medical equipment,Asset,Fixed asset,"X-ray, ultrasound, dental units, anesthesia machines, at cost"
+1590,Accumulated depreciation,Asset,Fixed asset,Contra account; carries a credit balance
+2010,Accounts payable,Liability,Payable,Distributor and reference lab invoices not yet paid
+2100,Client deposits,Liability,Current liability,Deposits taken before surgery or boarding and not yet used
+2200,Sales tax payable,Liability,Current liability,Tax on retail and food sales where it applies
+2300,Payroll liabilities,Liability,Current liability,"Withholdings and employer taxes, from the payroll report"
+2400,Business credit card,Liability,Credit card,"The payment from checking is a transfer, not an expense"
+2500,Equipment loans,Liability,Long-term liability,Principal owed on financed equipment. Split each payment between this line and interest expense
+3010,Owner capital,Equity,Owner equity,
+3020,Owner draws,Equity,Owner equity,
+3900,Retained earnings,Equity,Owner equity,
+4010,Exam and service revenue,Income,Revenue,"Exams, surgery, dentistry, hospitalization, diagnostics. Includes services paid through patient financing, at the full bill"
+4020,Pharmacy and food sales,Income,Revenue,"Medications, preventives, prescription diets"
+4030,Boarding and grooming,Income,Revenue,Optional. Only if the clinic offers them
+5010,Drugs and medical supplies,Cost of goods sold,Cost of sales,Distributor invoices
+5020,Outside lab and imaging fees,Cost of goods sold,Cost of sales,"Reference labs, radiology reads"
+5030,Cremation and aftercare,Cost of goods sold,Cost of sales,Amounts paid to the cremation provider
+6100,Wages,Expense,Payroll,"Vets, technicians, front desk, from the payroll report"
+6110,Payroll taxes,Expense,Payroll,Employer share from the payroll report
+6200,Merchant and financing fees,Expense,Operating expense,Card processor fees and patient financing provider fees
+6300,Rent,Expense,Occupancy,
+6310,Utilities,Expense,Occupancy,
+6400,Practice software,Expense,Operating expense,Practice management and client reminder software
+6500,Insurance,Expense,Operating expense,Professional liability and property
+6600,Continuing education and licenses,Expense,Operating expense,
+6700,Depreciation,Expense,Operating expense,
+6800,Interest expense,Expense,Other expense,Interest part of equipment loan payments

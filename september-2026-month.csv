@@ -1,0 +1,14 @@
+Line,Amount,Account,In profit
+"Exams and services, paid at checkout",61200.00,Exam and service revenue,Yes
+Pharmacy and food sales,14800.00,Pharmacy and food sales,Yes
+Services paid through patient financing,3500.00,Exam and service revenue,Yes
+Card processor fees,-1976.00,Merchant and financing fees,Yes
+Financing provider fee,-245.00,Merchant and financing fees,Yes
+Drug and supply distributor invoices,-18940.00,Drugs and medical supplies,Yes
+Reference lab invoices,-4310.00,Outside lab and imaging fees,Yes
+"Payroll, gross wages",-32600.00,Wages,Yes
+Employer payroll taxes,-2493.90,Payroll taxes,Yes
+Ultrasound loan interest,-412.50,Interest expense,Yes
+Ultrasound loan principal,-1580.00,Equipment loans,No
+Rent,-6800.00,Rent,Yes
+Cremation provider,-1150.00,Cremation and aftercare,Yes
