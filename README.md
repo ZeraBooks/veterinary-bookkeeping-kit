@@ -85,7 +85,7 @@ the equipment loan balance, and the equipment itself is depreciated.
 
 ## Learn more
 
-Full guide: [Bookkeeping for veterinary practices](https://www.zerabooks.com/bookkeeping-for-veterinary-practices). Related: [ZeraBooks](https://www.zerabooks.com/), accounting software that does your books for you, with free setup and a free catch-up of your past months.
+Full guide: [Bookkeeping for veterinary practices](https://www.zerabooks.com/bookkeeping-for-veterinary-practices). Related: [ZeraBooks](https://www.zerabooks.com/), AI bookkeeping software that runs your books. Catch-up of past months is included: you upload the statements and ZeraBooks does them.
 
 ## License
 
